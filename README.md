@@ -1,1 +1,3 @@
-# profile
+# :alien: Edalicio Heinzen
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edalicio-heinzen/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:edalicio.thais@gmail.com) [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white)](https://t.me/EdalicioHeinzen)  [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-075E54?style=for-the-badge&logo=whatsapp&labelColor=075E54&link=https://api.whatsapp.com/qr/N6ID3VQXMXCTB1)](https://api.whatsapp.com/qr/N6ID3VQXMXCTB1)
