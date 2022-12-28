@@ -1,12 +1,12 @@
-# :alien: Edalicio Heinzen
+# Edalicio Heinzen
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edalicio-heinzen/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:edalicio.thais@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white)](https://t.me/EdalicioHeinzen) [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-075E54?style=for-the-badge&logo=whatsapp&labelColor=075E54&link=https://api.whatsapp.com/qr/N6ID3VQXMXCTB1)](https://api.whatsapp.com/qr/N6ID3VQXMXCTB1)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:edalicio.thais@gmail.com) 
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-075E54?style=for-the-badge&logo=whatsapp&labelColor=075E54&link=https://wa.me/5547997975748?text=Hello%21)](https://wa.me/5547997975748?text=Hello%21)
 
-## Olá Pessoas 👋, Sejam Bem-Vindas!
+## Hello People 👋, Welcome!
 
-### Conhecimento nas linguagens e ferramentas:
+### Knowledge in languages and tools:
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" /> <img align="left" alt="laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
