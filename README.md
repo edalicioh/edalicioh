@@ -5,8 +5,8 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-075E54?style=for-the-badge&logo=whatsapp&labelColor=075E54&link=https://wa.me/5547997975748?text=Hello%21)](https://wa.me/5547997975748?text=Hello%21)
 
 ## Hello People 👋, Welcome!
-
-### Knowledge in languages and tools:
+</br>
+<div>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" /> <img align="left" alt="laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
@@ -17,8 +17,10 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-## Stats:
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edalicioh&show_icons=true&theme=radical)
+  </div>
+</br>
+<div >
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edalicioh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edalicioh&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
