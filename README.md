@@ -20,11 +20,10 @@
   </div>
 </br>
 <div >
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edalicioh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edalicioh&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="192" src="https://github-readme-stats.vercel.app/api?username=edalicioh&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="192" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edalicioh&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<div>
-   ![Snake animation](https://github.com/bwolfs2/bwolfs2/blob/output/github-contribution-grid-snake.svg)
-</div>
+![Snake animation](https://raw.githubusercontent.com/edalicioh/edalicioh/main/github-contribution-grid-snake.svg)
+
 
