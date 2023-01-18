@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:edalicio.thais@gmail.com) 
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-075E54?style=for-the-badge&logo=whatsapp&labelColor=075E54&link=https://wa.me/5547997975748?text=Hello%21)](https://wa.me/5547997975748?text=Hello%21)
 
-## Hello People 👋, Welcome!
+## Hello People <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, Welcome!
 </br>
 <div>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
